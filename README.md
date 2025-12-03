@@ -1,8 +1,8 @@
 # Ex.No.5 - Comparative Analysis of Prompt Patterns and Response Quality
 
-**Name:** Dhanvant Kumar V 
+### Name: Dhanvant Kumar V 
 
-**Register Number:** 212224040070
+### Reg.no: 212224040070
 
 ---
 
